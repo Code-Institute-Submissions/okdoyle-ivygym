@@ -23,29 +23,19 @@
 <h1>Design</h1>
 
 <h2>Website Description</h2>
-<p>I spent one happy year living and working in Dublin 8 in 2015. I was a member of Ivy Gym. 
-Off all the gyms I have ever been a memvber off this is my faveourite. It's unique selling point 
-is it's swimming pool area, with a suana, steam room, cool pool, and jacuzzi. This for makes this gym special.
-
-It was with this in mind that I opted to use an aqua colour scheme for the website, and promote images of the pool, where possible.
-I opted for minimal elegant typefaces to create a clean modern look and feel. The finished deign retains a restrained colour palete which complements the aqua theme.
-
+<p>I spent one happy year living and working in Dublin 8 in 2015. I was a member of Ivy Gym. Of all the gyms I have ever been a member of this is my favorite. Its unique selling point is its swimming pool area, with a sauna, steam room, cool pool, and jacuzzi. This makes this gym special.
+It was with this in mind that I opted to use an aqua color scheme for the website.  I used good images of the pool, where possible. I opted for minimal elegant typefaces to create a clean modern look and feel. The finished design retains a restrained color palette which complements the aqua theme.
+</p>
 
 <h2>Usablity</h2>
 
-The website is based around a standard 3 column container bootsrap grid. It makes use of large hero images where possible to differinciate the pages. 
-The logo and navbar are descreet and ever present, centered at the top of the page. The navigation is clear and the user can easily travel through out the website
-and reach their goals. Colour is introduced to display the gyms varous offerings from classes to the SWIM TRAIN SPIN core message. The pages are consistant in their design but 
-use colour and different images so as to ensure a flow and journey to every page.  
+The website is based around a standard 3 column container bootstrap grid. It makes use of large hero images where possible to differentiate the pages. The logo and navbar are discreet and ever-present, centered at the top of the page. The navigation is clear and the user can easily travel throughout the website and reach their goals. Colour is introduced to display the gym's various offerings from classes to the SWIM TRAIN SPIN core message. The pages are consistent in their design but 
+use colour and different images to ensure a flow and journey to every page.  
 
 <h2>User Experience</h2>
-The goal of any user experience is to convey the persoanlity of the gym, while retaining a high level of usablity. 
-The personality of Ivy gym is not exlusive or high end, it is a very reasonably priced, accessable gym with 
-excellent water facilites and this features strongly in the design. The home page opens with the heroshot
-of the pool, this is for most potential members and huge selling point. The user can imagine swimming in that water
-after a run or weight training. This creates an instant good feeling for the user. The colour scheme retains the personality of the pool
-area while introducing , with easy layout and colour, the various other features the gym has to offer. 
-
+At first principal, the designer must design to create a  user experience that conveys the personality of the product.  They must do this while retaining a high level of usability. The personality of Ivy gym is not exclusive or high end. It is a reasonably priced, accessible gym with excellent water facilities, and these features appear throughout the design. The home page opens with the hero shot
+of the pool, this is for most potential members, a huge selling point. The user can imagine swimming in pool after a run or weight training. This creates an instant good feeling for the user. The color scheme retains the personality of the pool area while introducing, with easy layout and color, the various other features the gym has to offer. 
+</p>
 
 <h1>Technologies</h1>
 
@@ -59,7 +49,7 @@ area while introducing , with easy layout and colour, the various other features
 
 <h2>Bootstrap</h2>
 
-    <p> The Bootstrap framework is used throughout this website for layouts and styling. </p>
+   <p> The Bootstrap framework is used throughout this website for layouts and styling. </p>
 
 
 
