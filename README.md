@@ -21,7 +21,7 @@
 
 
 <h1>Design</h1>
-![alt text]images/webmock.png
+![alt text](assets/images/webmock.png)
 
 <h2>Website Description</h2>
 <p>I spent one happy year living and working in Dublin 8 in 2015. I was a member of Ivy Gym. Of all the gyms I have ever been a member of this is my favorite. Its unique selling point is its swimming pool area, with a sauna, steam room, cool pool, and jacuzzi. This makes this gym special.
