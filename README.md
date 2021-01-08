@@ -9,7 +9,7 @@
 <li>Website Description<li>
 <li>Usablity</li>
 <li>User Exerpience</li>
-
+</ul>
 <br>
 
 <h3>Technologies</h3>
@@ -18,7 +18,7 @@
 <li>Testing<li>
 <li>Deployment</li>
 <li>Credits</li>
-
+</ul>
 
 <h1>Design</h1>
 
@@ -84,10 +84,10 @@ of the pool, this is for most potential members, a huge selling point. The user 
 
 
 
+   <h1>Credits</h1>
 
+   <P>https://www.w3schools.com </p>
 
-
-
-
+<P>https://www.mockplus.com/blog/post/bootstrap-form-template </p>
 
 
