@@ -85,7 +85,7 @@ background-image:url("../images/Reception-Area-from-Restrooms-P1011140.jpg");bac
 
 
 
-#yellowbox {background-color:yellow; height:400px; margin-top: 20px;background-image:url("images/train.png");background-size:cover; border-bottom: 3px solid white; text-align: center; padding:20px; padding-top: 50px; text-align: center;
+#yellowbox {background-color:yellow; height:400px; margin-top: 20px;background-image:url("../images/train.png");;background-size:cover; border-bottom: 3px solid white; text-align: center; padding:20px; padding-top: 50px; text-align: center;
   }
 
 #welcome {background-color:rgba(0,55,67,1.00); height:auto; padding-top: 20px; padding:30px;
